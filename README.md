@@ -7,3 +7,4 @@ In this repository you can find projects and scripts related to Machine and Deep
     - [Convolutional Neural Networks](https://github.com/Chebart/ML-DL-collection/tree/main/Convolutional%20Neural%20Networks)
         - AlexNet
         - VGG-16
+        - MobileNet_v1
