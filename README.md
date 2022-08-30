@@ -9,3 +9,5 @@ In this repository you can find projects and scripts related to Machine and Deep
         - VGG-16
         - MobileNet_v1
         - MobileNet_v2
+        - MobileNet_v3
+        
