@@ -15,6 +15,10 @@ In this repository you can find projects and scripts related to Machine and Deep
         - ResNet
         - SENet
         - VGG-16
+    - [Generative Adversarial Networks](https://github.com/Chebart/ML-DL-collection/tree/main/GANs)
+        - DCGAN
+        - GAN
+        - cGAN
 - **OpenCV**.
     - [3D HandDetection](https://github.com/Chebart/ML-DL-collection/tree/main/3D%20HandDetection)
         
