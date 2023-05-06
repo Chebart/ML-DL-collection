@@ -6,10 +6,14 @@ In this repository you can find projects and scripts related to Machine and Deep
 - **Pytorch**.
     - [Convolutional Neural Networks](https://github.com/Chebart/ML-DL-collection/tree/main/Convolutional%20Neural%20Networks)
         - AlexNet
+        - Darknet53
+        - DenseNet
         - GoogleNet
         - MobileNet_v1
         - MobileNet_v2
         - MobileNet_v3
+        - ResNet
+        - SENet
         - VGG-16
 - **OpenCV**.
     - [3D HandDetection](https://github.com/Chebart/ML-DL-collection/tree/main/3D%20HandDetection)
